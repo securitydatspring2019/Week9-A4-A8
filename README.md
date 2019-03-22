@@ -12,10 +12,10 @@ _Both of these OWASP Security Risks include topics (XML and Java Deserialization
 - [:book:  XML External Entity (XXE) Processing (10 min.)](https://www.owasp.org/index.php/XML_External_Entity_(XXE)_Processing)
 
 #### A8
-- [2017 A8-Insecure Deserialization (10 min.)](https://www.owasp.org/index.php/Top_10-2017_A8-Insecure_Deserialization)
-- [OWASP Deserialization Cheat Sheet (skim only)](https://www.owasp.org/index.php/Deserialization_Cheat_Sheet) Read only BUT READ, the 10 lines relating to Java
-- [Oracle plans to dump risky Java serialization (5 min.)](https://www.infoworld.com/article/3275924/java/oracle-plans-to-dump-risky-java-serialization.html)
-- [Understanding Java deserialization (20 min.) This is exercise-1 for A8](https://nytrosecurity.com/2018/05/30/understanding-java-deserialization/)
+- [:book: 2017 A8-Insecure Deserialization (10 min.)](https://www.owasp.org/index.php/Top_10-2017_A8-Insecure_Deserialization)
+- [:book:  OWASP Deserialization Cheat Sheet (skim only)](https://www.owasp.org/index.php/Deserialization_Cheat_Sheet) Read only BUT READ, the 10 lines relating to Java
+- [:book:  Oracle plans to dump risky Java serialization (5 min.)](https://www.infoworld.com/article/3275924/java/oracle-plans-to-dump-risky-java-serialization.html)
+- [:book: Understanding Java deserialization (20 min.) This is exercise-1 for A8](https://nytrosecurity.com/2018/05/30/understanding-java-deserialization/)
 
 
 ## Learning Goals
